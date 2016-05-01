@@ -7,22 +7,22 @@ exclude:
   - "/vendor/"
 
 # Site settings
-name: 孙福生的博客
-title_main: 主页
-title: 孙 福 生
-subtitle: Android Developer
+name: Brick Squad
+title_main: Stories from the Hustlers
+title: 
+subtitle: Advertisers Elite
 slogin: "You're unique, nothing can replace you."
-email: 1021122748@qq.com
-emailname: QQ Mail
+email: contact@greenbrick-media.com
+emailname: Greenbrick Media
 description: >
-  有意义就是好好活，好好活就有意义。
+  We're in the game
 
 # the subpath of your site, e.g. /blog/
 baseurl: /
 # the base hostname & protocol for your site
-url: "http://sfsheng0322.github.io"
+url: "http://gbm.github.io"
 cover: "assets/header_image.jpg"
-theme_color: "#78909c"
+theme_color: "#65bf24"
 # logo: "assets/logo.png"
 
 # Build settings
@@ -77,26 +77,13 @@ descriptions:
 #     share: false                           # Include in the "Share" section of posts
 social:
 
-  - name: Weibo
-    icon: weibo
-    username: 孙福生微博
-    url: http://weibo.com/u/3852192525
-    desc: Follow me on Weibo
-    share: false
-
   - name: GitHub
     icon: github
     username: 孙福生
-    url: https://github.com/sfsheng0322
+    url: https://github.com/greenbrickmedia
     desc: Follow me on GitHub
     share: false
 
-  - name: Google+
-    icon: google-plus
-    username: 孙福生
-    url: https://plus.google.com/u/0/107453335221429772724
-    desc: Add me to your Circles
-    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
